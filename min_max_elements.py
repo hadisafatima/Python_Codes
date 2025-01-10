@@ -1,6 +1,3 @@
-# This program ignores the first occurence of smallest and largest elements of a list and returns the average 
-# of all the other elements.
-
 # This program returns the minimum and maximum elements of a list
 
 class Solution:
